@@ -215,6 +215,12 @@ nav {
 
 
 /* Experince */
+
+
+#experinces div{ 
+    gap: 20px;
+
+}
 .v-card {
     width: 50%;
     height: 200px;
@@ -294,4 +300,9 @@ footer {
     padding-bottom: 5%;
     position: relative;
     color: rgb(199, 198, 198);
+}
+
+footer a{ 
+    color: rgb(199, 198, 198);
+    text-decoration: none;
 }
